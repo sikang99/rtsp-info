@@ -10,6 +10,9 @@
 - [Testing a RTSP HTML5 player](https://flashphoner.com/testing-rtsp-html5-player/)
 
 
-### Open Source
+### Open Source (Server)
 - [Fkylwj/rtspServer](https://github.com/Fkylwj/rtspServer) - EasyDarwin enable tls
 
+
+### Open Source (PLayer)
+- [Streamedian/html5_rtsp_player](https://github.com/Streamedian/html5_rtsp_player) - html5 player for rtsp stream
