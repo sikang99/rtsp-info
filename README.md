@@ -22,6 +22,11 @@
 - [mpromonet/v4l2rtspserver](https://github.com/mpromonet/v4l2rtspserver) - RTSP Server for V4L2 device capture supporting HEVC/H264/JPEG/VP8/VP9
 
 
-
 ### Open Source (PLayer)
 - [**Streamedian/html5_rtsp_player**](https://github.com/Streamedian/html5_rtsp_player) - html5 player for rtsp stream
+
+### Open Source (Golang)
+- [icholy/rtsp](https://github.com/icholy/rtsp) - A low level package for writing rtsp servers and clients
+
+
+
