@@ -19,6 +19,8 @@
 - [aler9/rtsp-simple-proxy](https://github.com/aler9/rtsp-simple-proxy) - ready-to-use RTSP proxy
 - [chriswiggins/rtsp-streaming-server](https://github.com/chriswiggins/rtsp-streaming-server) - Lightweight RTSP/RTP streaming media server written in Javascript
 - [deepch/RTSPtoWebRTC](https://github.com/deepch/RTSPtoWebRTC) - RTSP to WebRTC use Pion WebRTC
+- [mpromonet/v4l2rtspserver](https://github.com/mpromonet/v4l2rtspserver) - RTSP Server for V4L2 device capture supporting HEVC/H264/JPEG/VP8/VP9
+
 
 
 ### Open Source (PLayer)
